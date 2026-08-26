@@ -1,0 +1,351 @@
+CustomerID,Region,VisitTime,PizzaType,Review,VisitFrequency,AvgSpend
+1,Salem West,Late Night,Meat Lovers,3,1.8,466.74
+2,Fairlands,Lunch,Buffalo Chicken,5,4,442.55
+3,Central Salem,Lunch,Pepperoni,2.8,3.5,398.99
+4,Omalur,Lunch,Pepperoni,3.4,4.4,336.45
+5,Salem West,Dinner,Hawaiian,4.3,2.9,120
+6,Omalur,Dinner,BBQ Chicken,0.2,3.7,356.54
+7,Salem West,Late Night,BBQ Chicken,3.5,4.1,586.7
+8,Central Salem,Late Night,Meat Lovers,4.9,4.5,460.28
+9,Omalur,Lunch,Margherita,3.6,1.4,366.42
+10,Salem West,Dinner,Veggie Supreme,3.3,2,356.9
+11,Mettur,Late Night,Meat Lovers,4.5,4.4,503.66
+12,Omalur,Dinner,Margherita,4.6,4,378.53
+13,Salem West,Lunch,Pepperoni,4.2,1.3,400.09
+14,Mettur,Lunch,Hawaiian,4,2.8,253
+15,Fairlands,Dinner,Veggie Supreme,4.3,4,294.87
+16,Mettur,Late Night,Pepperoni,4.4,4.2,318.9
+17,Salem West,Lunch,Pepperoni,3.9,3.2,365.43
+18,Omalur,Late Night,Hawaiian,4.4,2.8,340.34
+19,Salem West,Dinner,White Pizza,0,1.3,376.27
+20,Salem West,Late Night,BBQ Chicken,3.4,3.6,562
+21,Salem West,Late Night,Buffalo Chicken,3.6,0.5,345.65
+22,Omalur,Dinner,Veggie Supreme,2.2,2.9,398.09
+23,Omalur,Dinner,Buffalo Chicken,4.6,2.5,363.48
+24,Fairlands,Lunch,Veggie Supreme,4.9,5,511.43
+25,Omalur,Late Night,BBQ Chicken,5,4.7,420.55
+26,Central Salem,Dinner,Pepperoni,3.4,0.8,443
+27,Central Salem,Lunch,Pepperoni,1,1.7,412.63
+28,Mettur,Dinner,Pepperoni,4.1,2.8,396.91
+29,Salem West,Dinner,Meat Lovers,3.9,3.2,253.65
+30,Omalur,Lunch,Veggie Supreme,4.7,5.5,408.43
+31,Fairlands,Lunch,Hawaiian,4.1,2.8,406.2
+32,Central Salem,Late Night,Meat Lovers,4.1,1.5,404.78
+33,Salem West,Lunch,Buffalo Chicken,4.1,1.9,482.56
+34,Mettur,Dinner,Veggie Supreme,4.1,3.1,328.57
+35,Salem West,Lunch,Veggie Supreme,3.5,2.5,352.85
+36,Salem West,Late Night,BBQ Chicken,4,2.3,345.26
+37,Central Salem,Late Night,Meat Lovers,3.5,0.6,513.45
+38,Fairlands,Dinner,Meat Lovers,4.5,2.8,600
+39,Central Salem,Dinner,White Pizza,1,5,486.24
+40,Fairlands,Dinner,Meat Lovers,4.5,3.8,495.54
+41,Salem West,Lunch,Veggie Supreme,3.6,1.3,272.69
+42,Mettur,Lunch,Margherita,4,2,385.34
+43,Omalur,Dinner,Meat Lovers,4.5,2.3,593.34
+44,Fairlands,Dinner,Buffalo Chicken,5,2.4,421.19
+45,Fairlands,Lunch,BBQ Chicken,4.1,5.6,399.95
+46,Salem West,Dinner,Meat Lovers,3.4,0.5,505.07
+47,Central Salem,Late Night,Meat Lovers,2.7,2.7,406.16
+48,Fairlands,Lunch,Margherita,3.8,4.2,366.48
+49,Mettur,Lunch,BBQ Chicken,3.1,1.8,300.3
+50,Fairlands,Dinner,Margherita,3.8,5.2,233.85
+51,Mettur,Late Night,Meat Lovers,3.7,2.3,412
+52,Mettur,Dinner,Hawaiian,3.9,4.5,242.87
+53,Central Salem,Dinner,Buffalo Chicken,3.1,1.3,463.1
+54,Omalur,Late Night,BBQ Chicken,3.9,3.6,378.43
+55,Fairlands,Dinner,Meat Lovers,4.2,4.9,483.1
+56,Fairlands,Late Night,Veggie Supreme,4.1,5.2,344.51
+57,Salem West,Late Night,White Pizza,2,1.9,375.53
+58,Central Salem,Dinner,White Pizza,1,2,381.38
+59,Salem West,Lunch,White Pizza,3,1.1,514.74
+60,Salem West,Dinner,BBQ Chicken,4.2,3.3,467.5
+61,Fairlands,Dinner,Margherita,4.1,3.9,194.6
+62,Central Salem,Dinner,Margherita,4.4,2.3,286.18
+63,Fairlands,Lunch,Margherita,4.3,4.2,353.55
+64,Omalur,Lunch,Buffalo Chicken,4.7,2.2,325.55
+65,Omalur,Late Night,Buffalo Chicken,4.1,5.3,287.78
+66,Central Salem,Lunch,BBQ Chicken,4.3,1.8,402.68
+67,Omalur,Lunch,Margherita,4.9,4.6,349.56
+68,Salem West,Dinner,White Pizza,2,2,400.76
+69,Omalur,Dinner,Buffalo Chicken,5,4.3,384.08
+70,Fairlands,Dinner,BBQ Chicken,5,6.6,361.5
+71,Salem West,Lunch,BBQ Chicken,4.2,0.5,305.24
+72,Fairlands,Dinner,Pepperoni,4.7,3,459.89
+73,Central Salem,Late Night,Margherita,3.4,1,337.73
+74,Fairlands,Late Night,Meat Lovers,3,1.3,521
+75,Salem West,Dinner,Margherita,3.7,2.2,410.97
+76,Central Salem,Late Night,Pepperoni,3.6,0.5,341.46
+77,Central Salem,Late Night,Margherita,4,3.2,300.33
+78,Fairlands,Dinner,Hawaiian,4.3,5.2,454.05
+79,Mettur,Dinner,White Pizza,1,1.7,489.34
+80,Salem West,Lunch,Margherita,4.1,3.2,214.48
+81,Salem West,Dinner,Buffalo Chicken,3.7,0.5,380.8
+82,Fairlands,Dinner,Buffalo Chicken,5,2.8,406.67
+83,Mettur,Late Night,Hawaiian,4.4,1.3,352.63
+84,Omalur,Lunch,Margherita,4.2,3.7,263.61
+85,Omalur,Dinner,Pepperoni,5,3.5,373.2
+86,Salem West,Lunch,Pepperoni,3.9,3.1,287.89
+87,Salem West,Dinner,Hawaiian,3.5,1.8,410.88
+88,Omalur,Late Night,Buffalo Chicken,4.9,3.7,396.74
+89,Fairlands,Dinner,Pepperoni,4.2,2.8,492.45
+90,Salem West,Dinner,Meat Lovers,3.4,2.3,468.68
+91,Mettur,Dinner,Margherita,4.6,0.5,271.37
+92,Salem West,Lunch,Pepperoni,3.1,0.9,285.11
+93,Omalur,Late Night,Meat Lovers,4.8,4.4,397.56
+94,Mettur,Dinner,Meat Lovers,3.8,1.3,438.58
+95,Salem West,Dinner,Hawaiian,2.5,2.1,361.66
+96,Salem West,Lunch,Margherita,3.7,1.2,290.77
+97,Omalur,Lunch,Margherita,2.8,3.2,343.42
+98,Central Salem,Late Night,BBQ Chicken,3.4,1.8,361.35
+99,Central Salem,Late Night,Meat Lovers,3.9,0.8,416.13
+100,Salem West,Dinner,Pepperoni,3,1.7,295.74
+101,Salem West,Dinner,Pepperoni,5,1,341.09
+102,Omalur,Lunch,Hawaiian,4,4.3,375.39
+103,Salem West,Dinner,Meat Lovers,3.2,4,343.79
+104,Omalur,Late Night,Buffalo Chicken,2.8,1.3,373.76
+105,Central Salem,Lunch,Margherita,3.7,3.1,556.25
+106,Fairlands,Lunch,Margherita,4.6,4.6,294.74
+107,Fairlands,Dinner,BBQ Chicken,4.4,5,404.99
+108,Salem West,Dinner,BBQ Chicken,4.3,2.3,520.59
+109,Salem West,Late Night,BBQ Chicken,4.1,2.2,366.91
+110,Central Salem,Late Night,BBQ Chicken,3.6,1.8,395.08
+111,Fairlands,Dinner,White Pizza,0,4.4,334.52
+112,Fairlands,Lunch,Veggie Supreme,4.1,4.4,400.02
+113,Salem West,Late Night,White Pizza,0,1.8,324.36
+114,Fairlands,Dinner,Hawaiian,4.2,4.4,472.61
+115,Omalur,Dinner,Pepperoni,3.7,2.7,296.55
+116,Central Salem,Lunch,Veggie Supreme,2.1,3,387.75
+117,Omalur,Late Night,Buffalo Chicken,5,4.5,423.01
+118,Omalur,Dinner,Hawaiian,4.4,5.1,329.33
+119,Central Salem,Late Night,Hawaiian,4.8,2.7,324.71
+120,Salem West,Late Night,Margherita,3.5,0.7,220.71
+121,Mettur,Late Night,BBQ Chicken,4.5,1.9,329.83
+122,Mettur,Lunch,Margherita,3.7,0.5,316.74
+123,Omalur,Dinner,Hawaiian,2.8,1.5,312.05
+124,Central Salem,Dinner,Hawaiian,3.3,1.3,358.55
+125,Salem West,Late Night,Margherita,5,1.6,433.31
+126,Salem West,Dinner,Hawaiian,2.1,0.6,337.71
+127,Central Salem,Late Night,BBQ Chicken,3.9,0.5,398.29
+128,Omalur,Dinner,Meat Lovers,4.2,4.1,382.26
+129,Omalur,Lunch,Hawaiian,4.5,2.5,123.5
+130,Salem West,Dinner,White Pizza,1,1.4,469.56
+131,Salem West,Lunch,Pepperoni,3.6,5.4,275.51
+132,Salem West,Dinner,Pepperoni,3.2,0.5,455.29
+133,Mettur,Dinner,Pepperoni,4.3,2.6,329.86
+134,Omalur,Lunch,Veggie Supreme,4.9,2.5,424.6
+135,Omalur,Late Night,Buffalo Chicken,3.5,3.1,312.22
+136,Mettur,Dinner,White Pizza,2,2.8,458.96
+137,Fairlands,Dinner,Pepperoni,4.4,4.9,373.02
+138,Omalur,Lunch,Hawaiian,2.9,2.8,314.68
+139,Salem West,Dinner,Margherita,4.3,1.4,384.44
+140,Salem West,Dinner,Buffalo Chicken,2.8,0.9,452.02
+141,Omalur,Lunch,Veggie Supreme,4.2,2.7,278.63
+142,Fairlands,Lunch,Margherita,5,4.4,426.25
+143,Fairlands,Lunch,Hawaiian,4.8,4.9,284.73
+144,Mettur,Dinner,Margherita,4.3,2.6,357.24
+145,Omalur,Dinner,White Pizza,2,4.2,477.18
+146,Central Salem,Dinner,Veggie Supreme,4,2.1,392.46
+147,Omalur,Dinner,Buffalo Chicken,4.4,3.3,477.74
+148,Central Salem,Dinner,Hawaiian,3.4,1.4,372.26
+149,Salem West,Lunch,Margherita,3,2.7,304.34
+150,Salem West,Dinner,Meat Lovers,3.7,2.9,360.87
+151,Central Salem,Late Night,Pepperoni,3.8,1.6,423.39
+152,Salem West,Dinner,Hawaiian,3.2,1.1,447.2
+153,Salem West,Dinner,Pepperoni,3.4,0.9,289.63
+154,Salem West,Lunch,Margherita,3,1.4,334.05
+155,Salem West,Dinner,Pepperoni,3.5,0.9,488.58
+156,Omalur,Late Night,Pepperoni,3.8,3.3,379.55
+157,Fairlands,Dinner,Pepperoni,4.2,3.4,383.32
+158,Salem West,Lunch,Buffalo Chicken,3.3,3.1,375.76
+159,Salem West,Lunch,Meat Lovers,4.1,3.2,591.44
+160,Mettur,Lunch,White Pizza,1,2,376.74
+161,Central Salem,Late Night,White Pizza,2,2.6,348.97
+162,Salem West,Dinner,Pepperoni,3.7,1.8,457.67
+163,Omalur,Lunch,Veggie Supreme,2.3,1.4,452.34
+164,Salem West,Dinner,Hawaiian,3.8,2.5,338.44
+165,Mettur,Dinner,White Pizza,2,5,430.14
+166,Fairlands,Dinner,Meat Lovers,5,4.3,489.3
+167,Salem West,Dinner,Pepperoni,3.8,2.3,336.46
+168,Salem West,Dinner,Buffalo Chicken,3.6,0.5,454.78
+169,Fairlands,Dinner,Meat Lovers,4.6,3.8,482.28
+170,Salem West,Dinner,Buffalo Chicken,3.6,1.4,421.65
+171,Salem West,Dinner,Margherita,2.6,2.2,291.19
+172,Central Salem,Late Night,Buffalo Chicken,3.5,0.8,432.63
+173,Fairlands,Lunch,Margherita,4.4,2.1,363.93
+174,Salem West,Dinner,Buffalo Chicken,4.2,0.7,278.07
+175,Omalur,Dinner,Meat Lovers,4.8,5.1,436.66
+176,Mettur,Dinner,Hawaiian,2.8,0.5,318.49
+177,Central Salem,Dinner,White Pizza,1,0.5,404.45
+178,Salem West,Late Night,Hawaiian,3.5,2.1,387.41
+179,Fairlands,Dinner,Meat Lovers,4,4.2,524.95
+180,Mettur,Lunch,Margherita,4.1,1.8,428.06
+181,Salem West,Dinner,Margherita,2.7,1.8,281.92
+182,Mettur,Lunch,Margherita,4.3,2.2,174.57
+183,Fairlands,Lunch,Veggie Supreme,4.7,4.8,378.55
+184,Omalur,Lunch,Buffalo Chicken,3.9,3.2,340.5
+185,Fairlands,Dinner,Hawaiian,4,3.9,343.85
+186,Omalur,Dinner,Margherita,4.2,5.2,358.45
+187,Fairlands,Lunch,Margherita,4.7,3.5,221.5
+188,Central Salem,Late Night,Meat Lovers,3.6,2.5,417.89
+189,Omalur,Late Night,Hawaiian,4.1,4.6,384.08
+190,Fairlands,Lunch,Margherita,5,3.8,290.97
+191,Central Salem,Dinner,Buffalo Chicken,2.8,0.5,447.12
+192,Mettur,Dinner,Meat Lovers,4.4,2.7,457.2
+193,Central Salem,Dinner,Margherita,4.8,3.6,375.97
+194,Salem West,Dinner,BBQ Chicken,4.1,2.3,482.83
+195,Salem West,Dinner,Veggie Supreme,2.7,0.7,428.03
+196,Salem West,Dinner,Hawaiian,3.7,1.3,383.75
+197,Fairlands,Late Night,Pepperoni,4.7,4,250.97
+198,Central Salem,Dinner,Veggie Supreme,3.4,2.4,275.62
+199,Omalur,Dinner,Buffalo Chicken,4.6,2.4,476.46
+200,Omalur,Late Night,Hawaiian,3.8,3.2,283.02
+201,Salem West,Late Night,Veggie Supreme,4,0.7,329.7
+202,Omalur,Lunch,Hawaiian,4.5,3.2,484.6
+203,Central Salem,Late Night,Meat Lovers,3.2,1.6,430.39
+204,Omalur,Dinner,Buffalo Chicken,3.9,3.9,405.16
+205,Salem West,Dinner,Margherita,3.7,2.3,311.99
+206,Mettur,Dinner,Meat Lovers,4.4,3.8,387.61
+207,Salem West,Dinner,Buffalo Chicken,3.8,1.3,474.39
+208,mettur,Dinner,White Pizza,1,3.5,421.9
+209,Mettur,Dinner,White Pizza,2,2.3,411.85
+210,Fairlands,Lunch,Veggie Supreme,4.7,5.9,311.22
+211,Omalur,Dinner,Buffalo Chicken,4.8,3.5,430.44
+212,Fairlands,Dinner,BBQ Chicken,5,5.6,346.34
+213,Fairlands,Dinner,Meat Lovers,5,4.2,457.23
+214,Omalur,Dinner,BBQ Chicken,4.2,4.6,369.18
+215,Salem West,Dinner,Pepperoni,2,0.8,360.18
+216,Fairlands,Dinner,Veggie Supreme,4.1,4.9,360.51
+217,Mettur,Dinner,Margherita,3.2,0.5,406.72
+218,Omalur,Dinner,Meat Lovers,2.8,2.3,501.2
+219,Central Salem,Lunch,Margherita,3.3,1.6,308.67
+220,Omalur,Dinner,Pepperoni,4.5,2.6,283.78
+221,Fairlands,Dinner,BBQ Chicken,5,5.2,383.8
+222,Omalur,Lunch,Veggie Supreme,3.3,2.9,299.96
+223,Fairlands,Lunch,Veggie Supreme,5,4.4,325.32
+224,Fairlands,Late Night,Meat Lovers,4.5,4.2,452.44
+225,Salem West,Lunch,Veggie Supreme,4.2,1.9,363.48
+226,Salem West,Dinner,Hawaiian,4,1.8,424.86
+227,Fairlands,Lunch,Veggie Supreme,5,3.2,411.46
+228,Central Salem,Dinner,Margherita,1,1.1,311.18
+229,Omalur,Dinner,Pepperoni,5,2.8,368.86
+230,Omalur,Dinner,BBQ Chicken,4.2,5.1,386.78
+231,Fairlands,Late Night,Pepperoni,4.7,3.7,252.62
+232,Omalur,Lunch,White Pizza,4.5,3,339.11
+233,Salem West,Dinner,Margherita,3.2,1.6,282.69
+234,Mettur,Late Night,Meat Lovers,4.2,0.6,472.44
+235,Salem West,Dinner,Buffalo Chicken,4,4,394.37
+236,Omalur,Dinner,Buffalo Chicken,2,4.4,354.76
+237,Salem West,Dinner,Margherita,4.5,2.1,398.84
+238,Fairlands,Late Night,Pepperoni,1,2.6,331.02
+239,Central Salem,Late Night,Hawaiian,3.4,2.5,315.05
+240,Fairlands,Lunch,Meat Lovers,2,4.9,507.4
+241,Omalur,Dinner,Pepperoni,3.8,2.9,355.23
+242,Salem West,Dinner,BBQ Chicken,4,2.4,569.58
+243,Central Salem,Dinner,Buffalo Chicken,3.2,1.6,383.68
+244,Central Salem,Late Night,Meat Lovers,1,1,509.52
+245,Omalur,Dinner,Pepperoni,3.6,4.3,353.03
+246,Central Salem,Lunch,White Pizza,3.5,1.3,449.07
+247,Fairlands,Dinner,Pepperoni,3.1,3.4,327.7
+248,Omalur,Lunch,Margherita,3.7,3.1,351.78
+249,Central Salem,Dinner,BBQ Chicken,1.8,0.6,437
+250,Salem West,Dinner,Meat Lovers,3.2,1.4,539.44
+251,Omalur,Late Night,Pepperoni,3.9,2.8,327.97
+252,Omalur,Dinner,Margherita,1.3,3.3,320.18
+253,Omalur,Dinner,BBQ Chicken,4.8,6.6,357.36
+254,Central Salem,Dinner,Pepperoni,3.3,0.5,253.3
+255,Central Salem,Late Night,Meat Lovers,3.4,1.1,426.51
+256,Salem West,Dinner,Margherita,3.6,0.5,331
+257,Omalur,Lunch,Buffalo Chicken,3.7,3,292.39
+258,Fairlands,Lunch,BBQ Chicken,4.5,1.5,366.91
+259,Fairlands,Dinner,BBQ Chicken,4,1.6,437.09
+260,Central Salem,Late Night,BBQ Chicken,3.5,0.8,529.56
+261,Salem West,Late Night,Margherita,3.6,2.7,404.63
+262,Central Salem,Late Night,Meat Lovers,1,1.8,404.79
+263,Omalur,Dinner,Veggie Supreme,4.1,3.4,394.22
+264,Omalur,Lunch,Margherita,3.9,1.9,261.7
+265,Salem West,Dinner,Meat Lovers,1,1.3,466.95
+266,Fairlands,Lunch,Margherita,4.1,4.9,274.59
+267,Fairlands,Lunch,Pepperoni,2,3.4,388.5
+268,Mettur,Lunch,Buffalo Chicken,4.5,2.1,465.67
+269,Central Salem,Late Night,Meat Lovers,3.8,2.1,398.78
+270,Salem West,Late Night,Pepperoni,3.8,0.9,232.02
+271,Salem West,Dinner,Buffalo Chicken,3.3,1.3,422.63
+272,Fairlands,Lunch,Meat Lovers,4.4,3.9,466.95
+273,Fairlands,Dinner,White Pizza,1,5.2,337.67
+274,Mettur,Late Night,Buffalo Chicken,4.1,2.9,370.92
+275,Fairlands,Lunch,Veggie Supreme,1.2,5.1,518.02
+276,Mettur,Lunch,Veggie Supreme,4.4,3.5,402.87
+277,Fairlands,Dinner,Pepperoni,2,4.1,399.71
+278,Central Salem,Lunch,BBQ Chicken,2.9,0.5,455.31
+279,Fairlands,Dinner,Hawaiian,3.5,1,376.68
+280,Omalur,Dinner,Margherita,2,3.1,358.9
+281,Central Salem,Dinner,BBQ Chicken,3.2,0.5,370.97
+282,Fairlands,Dinner,Hawaiian,3.3,2,254.35
+283,Fairlands,Lunch,Veggie Supreme,1,3.9,390.87
+284,Mettur,Dinner,Margherita,3.3,3.6,440.37
+285,Mettur,Dinner,Meat Lovers,3.5,3,449.58
+286,Omalur,Lunch,Pepperoni,2,4.5,407.32
+287,Fairlands,Dinner,BBQ Chicken,4.3,3.2,369.4
+288,Fairlands,Dinner,Meat Lovers,3.5,0.7,561.25
+289,Fairlands,Dinner,Margherita,1,4.2,391.92
+290,Mettur,Lunch,Pepperoni,2.7,1.8,243.89
+291,Salem West,Late Night,BBQ Chicken,4.2,2,397.87
+292,Fairlands,Dinner,Veggie Supreme,2,4.3,486.34
+293,Salem West,Dinner,Meat Lovers,3.8,0.8,473.72
+294,Fairlands,Late Night,Pepperoni,4.2,3.9,337.78
+295,Salem West,Lunch,White Pizza,1,0.6,381.77
+296,Fairlands,Lunch,BBQ Chicken,5,2,473.04
+297,Salem West,Late Night,Margherita,3.7,2,362.14
+298,Omalur,Dinner,Pepperoni,1,4.2,274.74
+299,Omalur,Dinner,Veggie Supreme,4.2,3.7,331.49
+300,Omalur,Lunch,Pepperoni,1.3,3.5,418.92
+301,Mettur,Lunch,White Pizza,1,2.4,422.77
+302,Central Salem,Dinner,Veggie Supreme,5,4.3,434.24
+303,Mettur,Dinner,Meat Lovers,3.4,2.2,533.83
+304,Mettur,Lunch,Hawaiian,3.8,1.7,312.05
+305,Omalur,Dinner,Meat Lovers,3.4,3,428.37
+306,Mettur,Late Night,Meat Lovers,4.1,3.4,445.33
+307,Mettur,Dinner,Margherita,4.4,3.2,398.57
+308,Central Salem,Dinner,Veggie Supreme,3.1,2,339.91
+309,Mettur,Dinner,Meat Lovers,4.2,2.4,376.85
+310,Fairlands,Dinner,BBQ Chicken,4.6,3.9,395.78
+311,Omalur,Late Night,Meat Lovers,4.1,2.2,405.85
+312,Central Salem,Late Night,Hawaiian,3.5,1.3,387.14
+313,Central Salem,Late Night,Meat Lovers,2.1,0.6,451.96
+314,Mettur,Dinner,White Pizza,1,2.5,378.81
+315,Omalur,Late Night,Meat Lovers,5,4.2,431.78
+316,Central Salem,Dinner,BBQ Chicken,2.3,1.9,418.63
+317,Salem West,Lunch,Hawaiian,3.3,1.2,320.24
+318,Fairlands,Dinner,Hawaiian,3.4,4.5,334.1
+319,Mettur,Late Night,Meat Lovers,4,1.7,521.68
+320,Omalur,Lunch,White Pizza,1,3.6,371.51
+321,Salem West,Dinner,Meat Lovers,2.5,1.3,511.72
+322,Central Salem,Late Night,Meat Lovers,2.7,1.5,516.58
+323,Salem West,Late Night,Meat Lovers,3.1,1.7,347.71
+324,Central Salem,Dinner,BBQ Chicken,2.1,0.5,414.57
+325,Fairlands,Late Night,BBQ Chicken,4.3,4.8,431.76
+326,Fairlands,Lunch,Buffalo Chicken,4.7,3.3,475.16
+327,Central Salem,Dinner,White Pizza,1,0.8,345.36
+328,Salem West,Lunch,BBQ Chicken,3.7,2.7,323.02
+329,Salem West,Dinner,Meat Lovers,3.8,2.8,504.15
+330,Omalur,Lunch,Pepperoni,4.3,3.5,419.71
+331,Omalur,Late Night,Meat Lovers,4.3,4.1,489.2
+332,Salem West,Dinner,BBQ Chicken,5,3.2,502.42
+333,Central Salem,Dinner,Hawaiian,4.1,3.5,299.13
+334,Mettur,Lunch,Pepperoni,4.2,4.8,339.45
+335,Central Salem,Late Night,Meat Lovers,4.7,2.2,443.67
+336,Salem West,Dinner,Margherita,3.5,1.3,278.45
+337,Central Salem,Dinner,Veggie Supreme,3.6,0.5,326.34
+338,Mettur,Lunch,Margherita,3.4,1.8,274.87
+339,Fairlands,Dinner,Veggie Supreme,4.7,4.1,333.25
+340,Fairlands,Lunch,Pepperoni,4.4,5.2,351.28
+341,Mettur,Dinner,Buffalo Chicken,3.6,1.6,327.34
+342,Salem West,Late Night,Meat Lovers,2.6,0.5,503.7
+343,Central Salem,Late Night,Meat Lovers,3.5,0.7,407.5
+344,Salem West,Dinner,BBQ Chicken,3.8,1.7,360.77
+345,Fairlands,Lunch,Margherita,4.8,4.2,393.58
+346,Salem West,Dinner,Margherita,4.2,2.9,333.99
+347,Fairlands,Dinner,Meat Lovers,4.5,3.4,555.2
+348,Mettur,Dinner,Margherita,3.4,2.3,258.34
+349,Salem West,Dinner,Meat Lovers,3.9,2.8,560.41
+350,Salem West,Dinner,Meat Lovers,3.2,3,435
