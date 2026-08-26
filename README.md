@@ -1,6 +1,6 @@
 # 🍕 Eastern Coast Pizza Customer Analytics
 
-A Python and Google Colab analysis pipeline for exploring customer spending patterns, ordering times, and product performance across 350 student customer records. All monetary values are processed and displayed in **Indian Rupees (₹)**.
+A Python and Google Colab analysis pipeline for exploring customer spending patterns, ordering times, and product performance across 350 customer records. All monetary values are processed and displayed.
 
 ---
 
