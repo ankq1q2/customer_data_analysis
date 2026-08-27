@@ -1,4 +1,4 @@
-# Eastern Coast Pizza Customer Analytics & EDA Pipeline
+# Eastern Coast Pizza Customer Analytics
 
 This project provides an exploratory data analysis (EDA) pipeline designed to evaluate customer purchasing habits, item revenue performance, visit patterns, and review distributions for an Eastern Coast pizza chain.
 
