@@ -1,0 +1,78 @@
+
+EASTERN COAST PIZZA CUSTOMER ANALYSIS - PROJECT DOCUMENTATION
+
+PROBLEM STATEMENT
+
+A pizza restaurant chain along the eastern coast has collected
+customer data (region, pizza type, visit frequency, average
+spend, visit time, review ratings) but lacks a systematic way to
+interpret it for decision-making. Without visibility into which
+pizza types drive revenue, which regions bring the most
+customers, when peak sales occur, and how customers rate
+different products, the business cannot make informed decisions
+on menu optimization, staffing, marketing, or quality
+improvement.
+
+OBJECTIVES
+
+1. Analyze customer distribution across regions.
+2. Study distribution of spending and review ratings.
+3. Explore visit frequency vs. average spend by pizza type.
+4. Identify revenue patterns across pizza type and visit time.
+5. Rank pizza types by total revenue.
+6. Evaluate satisfaction (mean/median/mode ratings) per pizza type.
+7. Derive actionable business insights.
+
+WORKFLOW
+
+1. Setup: Import numpy, pandas, matplotlib, seaborn; set theme.
+2. Data Cleaning: Load CSV, strip column whitespace, standardize
+   Region text, create TotalRevenue = AvgSpend x VisitFrequency.
+3. Univariate EDA: Pie chart of region share; histograms (KDE) of
+   AvgSpend and Review.
+4. Bivariate EDA: Scatter plot of Visit Frequency vs. AvgSpend,
+   colored by Pizza Type.
+5. Revenue Analysis: Heatmap of revenue by Pizza Type x Visit
+   Time; bar chart ranking revenue by Pizza Type.
+6. Satisfaction Analysis: Grouped bar chart of mean/median/mode
+   ratings per Pizza Type.
+7. Reporting: Print top/bottom pizza, peak time slot, best
+   pizza-time combo, and full ratings table.
+8. Conclusion: Summarize findings into business recommendations.
+
+CONCLUSION: CUSTOMER BEHAVIOUR INSIGHTS
+
+1. Satisfaction Drives Revenue: Meat Lovers is the top revenue
+   pizza (Rs. 75,602), while White Pizza is both the lowest
+   revenue (Rs. 26,198) and lowest rated (mean 1.46, median &
+   mode 1.0) - low satisfaction is directly suppressing repeat
+   purchases and spend.
+
+2. Dinner Is the Dominant Occasion: Dinner drives the highest
+   revenue overall (Rs. 186,002), with Meat Lovers at Dinner alone
+   contributing Rs. 41,831 - pizza is primarily an evening meal
+   choice, guiding staffing and promotion timing.
+
+3. Ratings Are Stable Except One Outlier: Most pizza types
+   (BBQ Chicken, Buffalo Chicken, Hawaiian, Margherita, Meat
+   Lovers, Pepperoni, Veggie Supreme) cluster around 3.5-4.0 mean
+   rating, showing a consistently satisfied customer base. White
+   Pizza is a clear outlier needing recipe/pricing review.
+
+4. Spend and Loyalty Vary by Product: The frequency-vs-spend
+   scatter shows some pizza types attract frequent low-spend
+   customers while others attract infrequent high-spend
+   customers - useful for designing loyalty programs vs. premium
+   upsells.
+
+5. Regional Concentration: Customer share is not evenly spread
+   across regions, suggesting marketing/expansion should focus on
+   strong regions while underperforming ones may need pricing or
+   competition review.
+
+Overall, customer behaviour tracks closely with satisfaction:
+high ratings sustain revenue (Meat Lovers), poor ratings erode it
+(White Pizza), and Dinner is the strongest, most consistent
+behavioural pattern anchoring the customer base.
+
+
